@@ -1,0 +1,71 @@
+header{
+    height: 100px;
+    width: 100%;
+    background: linear-gradient(#3c3ea0 , rgb(93, 48, 110) , rgb(255, 0, 170) );
+    font-family :Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
+    color:black;   }
+    h1{
+        text-align: center;
+    }
+    footer{
+        height: 100px;
+        width: 100%;
+        background: linear-gradient(#3c3ea0 , rgb(93, 48, 110) , rgb(255, 0, 170) );    
+        margin-top: 64.5vh;
+    
+    }
+    h4{
+        text-align: end;
+        margin-top: 5vh;
+    }
+    img{
+        margin-left: 168vh;
+        width: 500px;
+        height: 250px;
+        margin-top: 25vh;
+    }
+    img{
+        margin-left: 40vh;
+        width: 500px;
+        height: 250px;
+        margin-bottom: 25vh;
+    }
+    img{
+        margin-left: 0vh;
+        width: 300px;
+        height: 250px;
+        margin-bottom: 25vh;
+    }
+    body{
+        background-image:url(https://th.bing.com/th/id/OIP.3k__Afuq8j-P4HvmJIv4LQHaEo?rs=1&pid=ImgDetMain);
+        background-size :cover;
+        background-repeat: no-repeat;
+        }
+        button {
+            background-color: darkcyan; 
+            border: none;
+            color: white;
+            padding: 15px 32px;
+            text-align: center;
+            text-decoration: none;
+            display: inline-block;
+            font-size: 16px;
+            width:1300px;
+            border-radius: 40%;
+            font-family: Georgia, 'Times New Roman', Times, serif;
+            
+        }
+              
+            button:hover {
+                background-color: #04AA6D; /* Green */
+                color: white;
+              }
+              .button1 {
+      box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);}
+      p {
+        margin-top: -70vh;
+        font-size: large;
+        font-family: Georgia, 'Times New Roman', Times, serif;
+        color: rgb(0, 0, 0);
+      }
